@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ani, Triona, Launches Site"
-date: 2018-12-20
 ---
 
 Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
